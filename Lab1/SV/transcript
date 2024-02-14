@@ -1,6 +1,6 @@
 # do silly.do
 # Model Technology ModelSim SE-64 vlog 2021.3 Compiler 2021.07 Jul 13 2021
-# Start time: 14:58:20 on Feb 14,2024
+# Start time: 15:48:06 on Feb 14,2024
 # vlog silly.sv silly_tb.sv 
 # -- Compiling module silly
 # -- Compiling module SillyFullAdder
@@ -8,10 +8,10 @@
 # 
 # Top level modules:
 # 	tb
-# End time: 14:58:21 on Feb 14,2024, Elapsed time: 0:00:01
+# End time: 15:48:06 on Feb 14,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -voptargs="+acc" work.tb 
-# Start time: 14:58:21 on Feb 14,2024
+# Start time: 15:48:06 on Feb 14,2024
 # ** Note: (vsim-3812) Design is being optimized...
 # //  ModelSim SE-64 2021.3 Jul 13 2021
 # //
@@ -41,5 +41,5 @@
 # configure wave not supported in batch mode
 # ** Note: $finish    : silly_tb.sv(28)
 #    Time: 5 us  Iteration: 0  Instance: /tb
-# End time: 14:58:22 on Feb 14,2024, Elapsed time: 0:00:01
+# End time: 15:48:09 on Feb 14,2024, Elapsed time: 0:00:03
 # Errors: 0, Warnings: 0

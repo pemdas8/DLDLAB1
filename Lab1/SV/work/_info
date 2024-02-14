@@ -11,24 +11,24 @@ z2
 cModel Technology
 Z0 dC:/Users/willi/OneDrive/Documents/Github/DLDLAB1/Lab1/SV
 T_opt
-Z1 !s110 1707944301
-V7Ef_24V]na^0b50AHSeh:0
+!s110 1707947287
+VCVDWB4NO4Wan03UaEb`3D0
 04 2 4 work tb fast 0
-=1-581122ddd3cf-65cd296d-f0-acc
+=1-581122ddd3cf-65cd3517-96-4398
 !s124 OEM100
 o-quiet -auto_acc_if_foreign -work work +acc
-Z2 tCvgOpt 0
+Z1 tCvgOpt 0
 n@_opt
 OL;O;2021.3;73
 vsilly
-Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
-R1
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1707947286
 !i10b 1
-!s100 MeRh1<dG8a58i]>2H??K=2
-IaQag[Klee5cdhP;:K_2TW0
+!s100 2hZc?g;nI]IlPDTG8bCGH2
+I;5U7Q@chmRAF@PDzf7=Xo2
 S1
 R0
-Z4 w1707944204
+Z4 w1707947281
 Z5 8silly.sv
 Z6 Fsilly.sv
 !i122 0
@@ -38,15 +38,15 @@ Z8 OL;L;2021.3;73
 r1
 !s85 0
 31
-Z9 !s108 1707944300.000000
+Z9 !s108 1707947286.000000
 Z10 !s107 silly_tb.sv|silly.sv|
 Z11 !s90 silly.sv|silly_tb.sv|
 !i113 0
 Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-R2
-vSillyFullAdder
-R3
 R1
+vSillyFullAdder
+R2
+R3
 !i10b 1
 !s100 `nXP5LbT<FBCDHMifRnZk2
 I5>>SNZSGAEm6=QiGEG_9<0
@@ -67,17 +67,17 @@ R10
 R11
 !i113 0
 R12
-R2
+R1
 n@silly@full@adder
 vtb
+R2
 R3
-R1
 !i10b 1
 !s100 j89S?VSk[2I7UCnO9H1273
 ISMZ_E[76IQ9=WkYzo`X]R0
 S1
 R0
-w1707944274
+w1707946822
 8silly_tb.sv
 Fsilly_tb.sv
 !i122 0
@@ -92,4 +92,4 @@ R10
 R11
 !i113 0
 R12
-R2
+R1
